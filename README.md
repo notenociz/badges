@@ -2,26 +2,46 @@
 
 YOU SHOULD BE USING BADGES! Here's my quick setup for badges that I think will be useful:
 
-Hit Count:
-[![HitCount](https://hitt.herokuapp.com/{username||org}/{project-name}.svg)](https://github.com/{username||org}/{project-name})
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-GitHub Forks:
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/{username||org}/{project-name})
+```
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+```
 
-GitHub Stars:
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+## Hits [![HitCount](https://hitt.herokuapp.com/enociz/badges.svg)](https://github.com/enociz/badges)
 
-GitHub Watchers:
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)]()
+```
+## Hits [![HitCount](https://hitt.herokuapp.com/enociz/badges.svg)](https://github.com/enociz/badges)
+```
 
-GitHub Followers:
-[![GitHub Followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)]()
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/enociz/badges/issues)
 
-Twitter Followers:
-[![Twitter Followers](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]()
+```
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/enociz/badges/issues)
+```
 
-GitHub Issues:
-[![GitHub Issues](https://img.shields.io/github/issues-raw/badges/shields.svg)]()
+## Stars [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=star&count=true)](https://github.com/enociz/badges)
 
-GitHub License:
-[![GitHub License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+```
+## Stars [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=star&count=true)](https://github.com/enociz/badges)
+```
+
+## Watch [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=watch&count=true&v=2)](https://github.com/enociz/badges)
+
+```
+## Watch [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=watch&count=true&v=2)](https://github.com/enociz/badges)
+```
+
+## Fork [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=fork&count=true)](https://github.com/enociz/badges)
+
+```
+## Fork [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=fork&count=true)](https://github.com/enociz/badges)
+```
+
+## Follow [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=follow&count=true)](https://github.com/enociz)
+
+```
+## Follow [![Stars Count](https://ghbtns.com/github-btn.html?user=enociz&repo=badges&type=follow&count=true)](https://github.com/enociz)
+```
+
+Inspired by the [dwyl](http://www.dwyl.io) [repo-badges repo](https://github.com/dwyl/repo-badges) and [ghbtns](https://ghbtns.com/).
